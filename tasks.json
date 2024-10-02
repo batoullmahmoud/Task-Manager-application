@@ -1,0 +1,83 @@
+[
+    {
+        "ID": 1,
+        "title": "cooking",
+        "description": "cook dinner",
+        "dueDate": "01/08/2024",
+        "type": "personal",
+        "status": "incomplete",
+        "category": "family"
+    },
+    {
+        "ID": 1,
+        "title": "java",
+        "description": "this is java task",
+        "dueDate": "20/08/2024",
+        "type": "work",
+        "status": "in progresss",
+        "Task Priority": 1
+    },
+    {
+        "ID": 1,
+        "title": "tennis",
+        "description": "this is tennis training",
+        "dueDate": "15/08/2024",
+        "type": "personal",
+        "status": "in progress",
+        "category": "sport"
+    },
+    {
+        "ID": 1,
+        "title": "python",
+        "description": "solve python task",
+        "dueDate": "20/10/2024",
+        "type": "work",
+        "status": "in progress",
+        "Task Priority": 2
+    },
+    {
+        "ID": 2,
+        "title": "washing dish",
+        "description": "my kitchen need to be cleaned",
+        "dueDate": "15/08/2024",
+        "type": "personal",
+        "status": "incompleted",
+        "category": "family"
+    },
+    {
+        "ID": 2,
+        "title": "football",
+        "description": "football training",
+        "dueDate": "15/7/2024",
+        "type": "personal",
+        "status": "incomplete",
+        "category": "sport"
+    },
+    {
+        "ID": 2,
+        "title": "php",
+        "description": "this is php task",
+        "dueDate": "19/09/2024",
+        "type": "work",
+        "status": "incomplete",
+        "Task Priority": "1"
+    },
+    {
+        "ID": 1,
+        "title": "task2",
+        "description": "oo",
+        "dueDate": "17/08/2024",
+        "type": "personal",
+        "status": "in progress",
+        "category": "sport"
+    },
+    {
+        "ID": 1,
+        "title": "task",
+        "description": "tt",
+        "dueDate": "17/8/2024",
+        "type": "work",
+        "status": "completed",
+        "Task Priority": 2
+    }
+]
